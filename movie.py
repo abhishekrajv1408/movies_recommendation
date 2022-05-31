@@ -66,6 +66,4 @@ def recommend(mov):
         b.append(movie.iloc[i[0]].title)
     # data=pd.DataFrame(data)
     return b
-    # return movies_list
-
-    # recommend('Avatar')
+    
